@@ -1,0 +1,1 @@
+The khashfunction by sukitsupaluk has two problems, it does not use all 62 characters from the $map set and when corrected it then produces different results on 64-bit compared to 32-bit PHP systems.
